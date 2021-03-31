@@ -2,10 +2,10 @@
 🌜 Languages and Skills: **JavaScript, Python, HTML 5, CSS 3, Docker.**
 
 
-👩‍💻 Tools: **VScode, Postbird, Postman, Git and iTerm2.**
+👨‍💻 Tools: **VScode, Postbird, Postman, Git and iTerm2.**
 
 
-💌 Find me around the web ⤵️
+🏝️ Find me around the web ⤵️
 
 
 [![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:markhvaldez@gmail.com)
