@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# 🌎 Hello, world! I'm Mark 👋
+# 🌎 Hi there! I'm Mark 👋
 🌜 Languages and Skills: **JavaScript, Python, HTML 5, CSS 3, Docker.**
 
 
@@ -18,10 +16,10 @@
 🌟 Check out my portfolio [here](https://markhv-code.github.io/)
 
 
-**GitHub Stats** <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="50" height="50"/>
+**GitHub Stats** <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="50" height="50"/>
 
 
-[![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=markhv-code&show_icons=true&theme=radical)](https://github.com/markhv-code/github-readme-stats)
+[![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=markhv-code&show_icons=true&theme=algolia)](https://github.com/markhv-code/github-readme-stats)
 
 
 <!--
