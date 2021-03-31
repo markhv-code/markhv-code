@@ -1,5 +1,29 @@
 ### Hi there 👋
 
+# 🌎 Hello, world! I'm Kat 👋
+🌜 Languages and Skills: **JavaScript, Python, HTML 5, CSS 3, Docker.**
+
+
+👩‍💻 Tools: **VScode, Postbird, Postman, Git and iTerm2.**
+
+
+💌 Find me around the web ⤵️
+
+
+[![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:markhvaldez@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-valdez-a50507108/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MarkVal13129180)
+
+
+🌟 Check out my portfolio [here](https://markhv-code.github.io/)
+
+
+**GitHub Stats** <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="50" height="50"/>
+
+
+[![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=markhv-code&show_icons=true&theme=radical)](https://github.com/markhv-code/github-readme-stats)
+
+
 <!--
 **markhv-code/markhv-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
