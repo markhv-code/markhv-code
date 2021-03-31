@@ -16,7 +16,7 @@
 🌟 Check out my portfolio [here](https://markhv-code.github.io/)
 
 
-**GitHub Stats** <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="50" height="50"/>
+**GitHub Stats** <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="80" height="45"/>
 
 
 [![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=markhv-code&show_icons=true&theme=algolia)](https://github.com/markhv-code/github-readme-stats)
