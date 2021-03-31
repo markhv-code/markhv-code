@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# 🌎 Hello, world! I'm Kat 👋
+# 🌎 Hello, world! I'm Mark 👋
 🌜 Languages and Skills: **JavaScript, Python, HTML 5, CSS 3, Docker.**
 
 
