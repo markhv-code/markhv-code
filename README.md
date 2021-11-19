@@ -1,8 +1,8 @@
 # 🌎 Hi there! I'm Mark 👋
-🌜 Languages and Skills: **JavaScript, Python, HTML 5, CSS 3, Docker.**
+🌜 Languages and Skills: **TypeScript, JavaScript, Python, HTML 5, CSS 3, Docker.**
 
 
-👨‍💻 Tools: **VScode, Postbird, Postman, Git and iTerm2.**
+👨‍💻 Tools: **VScode, Postbird, Postman, Git, iTerm2, and Figma.**
 
 
 🏝️ Find me around the web ⤵️
